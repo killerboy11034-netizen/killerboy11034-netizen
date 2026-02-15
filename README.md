@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Jay Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on AI Automation and Diving into the depths of Machine Learning
 - 🌱 I’m currently learning to automate all the things which we do on PC's 
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything from my projects or you can suggest me anything that you think i should change
 - 📫 How to reach me: You can use my portfolio to reach me out
 - ⚡ Fun fact: 1 step a day is better than running at stops
--->
+
